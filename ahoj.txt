@@ -1,7 +1,31 @@
 The UPDATE statement updates the values of specified columns in rows of a table, view or nickname, or the underlying tables, nicknames, or views of the specified fullselect.
-
 Updating a row of a view updates a row of its base table, if no INSTEAD OF trigger is defined for the update operation on this view. If such a trigger is defined, the trigger will be executed instead. Updating a row using a nickname updates a row in the data source object to which the nickname refers.
-
 The forms of this statement are:
 The Searched UPDATE form is used to update one or more rows (optionally determined by a search condition).
 The Positioned UPDATE form is used to update exactly one row (as determined by the current position of a cursor).
+The UPDATE statement updates the values of specified columns in rows of a table, view or nickname, or the underlying tables, nicknames, or views of the specified fullselect.
+Updating a row of a view updates a row of its base table, if no INSTEAD OF trigger is defined for the update operation on this view. If such a trigger is defined, the trigger will be executed instead. Updating a row using a nickname updates a row in the data source object to which the nickname refers.
+The forms of this statement are:
+The Searched UPDATE form is used to update one or more rows (optionally determined by a search condition).
+The Positioned UPDATE form is used to update exactly one row (as determined by the current position of a cursor).
+The UPDATE statement updates the values of specified columns in rows of a table, view or nickname, or the underlying tables, nicknames, or views of the specified fullselect.
+Updating a row of a view updates a row of its base table, if no INSTEAD OF trigger is defined for the update operation on this view. If such a trigger is defined, the trigger will be executed instead. Updating a row using a nickname updates a row in the data source object to which the nickname refers.
+The forms of this statement are:
+The Searched UPDATE form is used to update one or more rows (optionally determined by a search condition).
+The Positioned UPDATE form is used to update exactly one row (as determined by the current position of a cursor).
+The UPDATE statement updates the values of specified columns in rows of a table, view or nickname, or the underlying tables, nicknames, or views of the specified fullselect.
+Updating a row of a view updates a row of its base table, if no INSTEAD OF trigger is defined for the update operation on this view. If such a trigger is defined, the trigger will be executed instead. Updating a row using a nickname updates a row in the data source object to which the nickname refers.
+The forms of this statement are:
+The Searched UPDATE form is used to update one or more rows (optionally determined by a search condition).
+The Positioned UPDATE form is used to update exactly one row (as determined by the current position of a cursor).
+The UPDATE statement updates the values of specified columns in rows of a table, view or nickname, or the underlying tables, nicknames, or views of the specified fullselect.
+Updating a row of a view updates a row of its base table, if no INSTEAD OF trigger is defined for the update operation on this view. If such a trigger is defined, the trigger will be executed instead. Updating a row using a nickname updates a row in the data source object to which the nickname refers.
+The forms of this statement are:
+The Searched UPDATE form is used to update one or more rows (optionally determined by a search condition).
+The Positioned UPDATE form is used to update exactly one row (as determined by the current position of a cursor).
+The UPDATE statement updates the values of specified columns in rows of a table, view or nickname, or the underlying tables, nicknames, or views of the specified fullselect.
+Updating a row of a view updates a row of its base table, if no INSTEAD OF trigger is defined for the update operation on this view. If such a trigger is defined, the trigger will be executed instead. Updating a row using a nickname updates a row in the data source object to which the nickname refers.
+The forms of this statement are:
+The Searched UPDATE form is used to update one or more rows (optionally determined by a search condition).
+The Positioned UPDATE form is used to update exactly one row (as determined by the current position of a cursor).
+
