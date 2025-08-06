@@ -1,0 +1,2 @@
+tak toto je zkušební soubor
+zde si chci vyzkoušet jak se budou data posílat
